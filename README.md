@@ -9,3 +9,4 @@
    - Data analysis tool (descriptive statistics), Box and whisker to identify data outliers, Pivot table to aid in analysis, Data validation, Dynamic table using XLOOKUP and SUMIFS functions
       - [Fastfood Revenue Dataset](https://github.com/annakatrinatejero/portfolio/blob/5d12d5e375bb4cc534b669976c06ffd36fc85729/Excel%20-%20Data%20Transformation%20and%20Analysis%20(Fastfood%20Revenue%20Dataset).xlsx)  
 ![price outlier by manager](https://github.com/annakatrinatejero/portfolio/assets/166871954/a4ca42ae-689f-4c1f-9d74-a99a701fab24)
+         - The graph shown above tells us that most of the outlier data in Price is coming from the manager named "Joao Silva"
