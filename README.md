@@ -18,8 +18,11 @@
 1. Data Exploration - [Covid19 Dataset](https://github.com/annakatrinatejero/portfolio/blob/26b2f0e7947ddc481a08dc7743b5c4f6d3e0ea8e/coviddeaths.sql)
 
 ## Tableau
+- Exported SQL view scripts to Excel workbook and uploaded Excel workbooks to Tableau Public to create data visualization via dashboard
 1. Data Visualization - [Covid19 Dashboard](https://public.tableau.com/shared/TFDZYNNZT?:display_count=n&:origin=viz_share_link)
 
+
+![Dashboard 1](https://github.com/annakatrinatejero/portfolio/assets/166871954/274fde37-e9ee-4d64-a3bf-01b64efb52a7)
 
 
 
