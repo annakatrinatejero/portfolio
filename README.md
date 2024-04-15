@@ -15,3 +15,7 @@
 1. Loading large data set into MySQL Workbench using pandas module on [Jupyter notebook](https://github.com/annakatrinatejero/portfolio/blob/14182031a187eb13264603a18d98969d1e7c9b21/CovidDeaths.ipynb)
 
 
+
+
+
+
