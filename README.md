@@ -16,7 +16,8 @@
 
 ## SQL
 1. Data Exploration - [Covid19 Dataset](https://github.com/annakatrinatejero/portfolio/blob/26b2f0e7947ddc481a08dc7743b5c4f6d3e0ea8e/coviddeaths.sql)
-2. Data Cleaning - [Nashville Housing Dataset]()
+2. Data Cleaning - [Nashville Housing Dataset](https://github.com/annakatrinatejero/portfolio/blob/0d591fd2ffa72de6ade9cdeb8f8a7a02b7c2fc26/SQL%20-Data%20Cleaning%20(Nashvillehousing2).sql)
+                     - Standardize Date format, Populate NULL values, Parsing into separate columns, Standardize column information by using CASE function, Removed duplicates, Deleted unused columns
 
 ## Tableau
 - Exported SQL view scripts to Excel workbook and uploaded Excel workbooks to Tableau Public to create data visualization via dashboard
