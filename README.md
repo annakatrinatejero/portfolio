@@ -16,6 +16,7 @@
 
 ## SQL
 1. Data Exploration - [Covid19 Dataset](https://github.com/annakatrinatejero/portfolio/blob/26b2f0e7947ddc481a08dc7743b5c4f6d3e0ea8e/coviddeaths.sql)
+2. Data Cleaning - [Nashville Housing Dataset]()
 
 ## Tableau
 - Exported SQL view scripts to Excel workbook and uploaded Excel workbooks to Tableau Public to create data visualization via dashboard
