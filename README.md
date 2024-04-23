@@ -27,7 +27,7 @@
 ![Dashboard 1](https://github.com/annakatrinatejero/portfolio/assets/166871954/274fde37-e9ee-4d64-a3bf-01b64efb52a7)
 
 ## Looker Studio
-1. [Sample Google and Facebook Ads Dashboard]([https://lookerstudio.google.com/s/oybD4czpRZ8](https://lookerstudio.google.com/reporting/2cd9c4e8-487d-4468-bdf5-2439e8683d5f)
+1. [Sample Google and Facebook Ads Dashboard]([https://lookerstudio.google.com/s/oybD4czpRZ8](https://lookerstudio.google.com/u/0/reporting/2cd9c4e8-487d-4468-bdf5-2439e8683d5f/page/NashD)
 
 
 
