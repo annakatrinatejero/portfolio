@@ -27,9 +27,10 @@
 ![Dashboard 1](https://github.com/annakatrinatejero/portfolio/assets/166871954/274fde37-e9ee-4d64-a3bf-01b64efb52a7)
 
 ## Looker Studio
-1. [Sample Google and Facebook Ads Dashboard]([https://lookerstudio.google.com/s/oybD4czpRZ8](https://lookerstudio.google.com/u/0/reporting/2cd9c4e8-487d-4468-bdf5-2439e8683d5f/page/NashD)
-
-
-
+1. [Sample Google and Meta Ads Performance Dashboard](https://lookerstudio.google.com/u/0/reporting/2cd9c4e8-487d-4468-bdf5-2439e8683d5f/page/NashD)
+![looker_studio](https://github.com/annakatrinatejero/portfolio/assets/166871954/bceca9cf-dcca-4f01-a163-e06c300467cc)
+                        
+   - Used Dataslayer connector to pull data from Meta and Google ad account manager
+   - Manually blended Meta and Google ads data by using **INDEX**, **QUERY**, and **MATCH** functions
 
 
